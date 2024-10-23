@@ -4,6 +4,7 @@
 ## Overview
 This repository contains a machine learning project for predicting used car prices based on various vehicle attributes such as model, year, fuel type, mileage, and more. It includes:
 - A **Random Forest** model for regression.
+ mse, r2 (15.133098857888191, 0.8770261551947751)
 - A **Tkinter-based GUI** that allows users to input car details and predict the price.
 
 ## Features
